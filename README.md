@@ -4,7 +4,7 @@
 | -------------  | --- |
 | :sparkles: Nome:       | ONE - E-commerce
 | :label: Tecnologias:| HTML, CSS, JavaScript, Crud, json
-| :rocket: URL:        | https://christianalencar.github.io//ONE-ecommerce
+| :rocket: URL:        | https://christianalencar.github.io/ONE-ecommerce/
 | :fire: Desafio:    | Alura/ONE - Formação Font end
 
 
@@ -12,9 +12,9 @@
 
 <h3>O e-commerce deve conter os seguintes requisitos: </h3>
 
-- Uma página inicial que contenha um botão "iniciar sessão" e um buscador de produtos oferecidos pela empresa.
-- Um banner que contenha descontos, promoções, ou informações relevantes do momento.
-- Uma galeria com as informações dos produtos como: a imagem, o nome do produto, o preço e um link que leva até a página de descrição do produto.
+- Uma página inicial com os produtos e pesquisa dentro dela;
+- Um banner que contenha com ofertas;
+- Uma galeria com as informações dos produtos;
 - Uma página do produto que contenha a imagem, o nome, a descrição e o preço.
 - Um rodapé com formulário para contato e outras informações relevantes.
 - Existir um Menu administrador para eles conseguirem adicionar, editar, buscar ou eliminar produtos da loja.
