@@ -4,7 +4,7 @@
 | -------------  | --- |
 | :sparkles: Nome:       | ONE - E-commerce
 | :label: Tecnologias:| HTML, CSS, JavaScript, Crud, json
-| :rocket: URL:        | 
+| :rocket: URL:        | https://christianalencar.github.io//ONE-ecommerce
 | :fire: Desafio:    | Alura/ONE - Formação Font end
 
 
